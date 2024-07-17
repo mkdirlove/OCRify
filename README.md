@@ -39,7 +39,6 @@ options:
   -h, --help            show this help message and exit
   -f FILENAME, --filename FILENAME
                         Path to the image file.
-  -u URL, --url URL     URL of the image.
   -o OUTPUT, --output OUTPUT
                         Output text file.
 
@@ -49,9 +48,4 @@ options:
 Using local file as input
 ```
 python3 OCRify.py --filename sample.png --output result.txt
-```
-
-Using url as input
-```
-python OCRify.py --url http://i.imgur.com/31d5L5y.jpg --output result.txt
 ```
