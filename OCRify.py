@@ -78,7 +78,7 @@ def ocr_space_url(url, overlay=False, api_key='K89070197588957', language='eng')
 def main():
     os.system("clear")
     print(banner)
-    parser = argparse.ArgumentParser(description='OCRify - Process images with OCR.space API.')
+    parser = argparse.ArgumentParser(description='OCRify - A user-friendly command-line tool that extracts texts in images.')
     parser.add_argument('-f', '--filename', type=str, help='Path to the image file.')
     parser.add_argument('-u', '--url', type=str, help='URL of the image.')
     parser.add_argument('-o', '--output', type=str, help='Output text file.')
