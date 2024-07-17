@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/mkdirlove/OCRify"><img src="https://github.com/mkdirlove/OCRify/blob/main/logo.png" alt="OCRify"></a>
   <br>
-  A powerful yet user-friendly command-line tool designed to convert images containing text into editable and searchable text documents.
+  A user-friendly command-line tool that converts images with text into editable and searchable documents.
   <br>
 </h1>
 
