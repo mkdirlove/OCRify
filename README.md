@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/mkdirlove/OCRify"><img src="https://github.com/mkdirlove/OCRify/blob/main/logo.png" alt="OCRify"></a>
   <br>
-  A user-friendly command-line tool that extracts texts in images.
+  A user-friendly command-line tool that extracts texts from images.
   <br>
 </h1>
 
@@ -33,7 +33,7 @@ Made with ❤️  by @mkdirlove
 
 usage: OCRify.py [-h] [-f FILENAME] [-u URL] [-o OUTPUT]
 
-OCRify - A user-friendly command-line tool that extracts texts in images.
+OCRify - A user-friendly command-line tool that extracts texts from images.
 
 options:
   -h, --help            show this help message and exit
