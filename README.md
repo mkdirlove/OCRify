@@ -33,7 +33,7 @@ Made with ❤️  by @mkdirlove
 
 usage: OCRify.py [-h] [-f FILENAME] [-u URL] [-o OUTPUT]
 
-OCRify - Process images with OCR.space API.
+OCRify - A user-friendly command-line tool that extracts texts in images.
 
 options:
   -h, --help            show this help message and exit
